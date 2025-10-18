@@ -13,7 +13,7 @@ You can view this journal in more detail on **Hack Club Blueprint** [here](https
 ## 10/17/2025 - starting to design it in fusion  
 
 I'm thinking the best way to design what I'm wanting in fusion 360. also I'm going to need to figure out how to make holes inside of the part for the magnets to go into. hopefully this should be a fun easy project to make. again I'm
- always looking for feedback if you have any. also ive been wanting to make something like this for some time.
+ always looking for feedback if you have any. also ive been wanting to make something like this for some time. here is what i'm wanting it to look like the red is hidden magnets inside the 3d print the black is the outline.
 
 
 ![fidget.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--8f4dd85f5df954d1b6ee77b67af1f9f301661aac/fidget.png)  
