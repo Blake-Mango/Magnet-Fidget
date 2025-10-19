@@ -18,7 +18,7 @@ I'm thinking the best way to design what I'm wanting in fusion 360. also I'm goi
 
 ![fidget.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--8f4dd85f5df954d1b6ee77b67af1f9f301661aac/fidget.png)  
 
-## 10/19/2025 - figured out how to make a hole inside of a 3d model  
+## 10/19/2025 12 AM - figured out how to make a hole inside of a 3d model  
 
 I've found out the best way to make holes inside of symmetrical parts in fusion 360 to do it you have to first start by making half of the part then you use the mirror tool to flip the part that has half of the hole onto itself so it makes one continuous part with the holes sandwiched in-between.
 ![Screenshot 2025-10-19 001435.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzI0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--6c154ccab737a9507ccabee51861dfacbef79e87/Screenshot%202025-10-19%20001435.png)
@@ -28,6 +28,18 @@ I've found out the best way to make holes inside of symmetrical parts in fusion 
 now i need to figure out how to get the holes to be perfectly in the center on each side of the hexagon maybe the pattern tool could help me do that but this is all for now. 
 
 
+
+  
+
+## 10/19/2025 9 AM - started to make the final design  
+
+I was able to figure put that i can make a middle line on the circle to center where the holes for the magnets are going to go. I've also figured out that i can use the pattern tool set on features to make the cut operation go all around the part. next im going to start printing them out and making a ton to give out to my friends and family and anyone who thinks that they are cool.
+![Screenshot 2025-10-19 095400.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--8b99d8248a6b9f4d20940ad71f13f71322232a21/Screenshot%202025-10-19%20095400.png)
+![Screenshot 2025-10-19 095321.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQxOSwicHVyIjoiYmxvYl9pZCJ9fQ==--7cdbc4ae38f95025404c09939f42c303bb112934/Screenshot%202025-10-19%20095321.png)
+![Screenshot 2025-10-19 095310.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQxOCwicHVyIjoiYmxvYl9pZCJ9fQ==--6cfde5c75566f48855fc6c93eb0b982abc357429/Screenshot%202025-10-19%20095310.png)
+![Screenshot 2025-10-19 095253.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQxNywicHVyIjoiYmxvYl9pZCJ9fQ==--8741ff6dabf6569b5c5d0f6a2d526f7469021d5f/Screenshot%202025-10-19%20095253.png)
+
+sorry the images are in reverse order for some reason but it goes bottom to top.
 
   
 
