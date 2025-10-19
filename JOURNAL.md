@@ -13,8 +13,21 @@ You can view this journal in more detail on **Hack Club Blueprint** [here](https
 ## 10/17/2025 - starting to design it in fusion  
 
 I'm thinking the best way to design what I'm wanting in fusion 360. also I'm going to need to figure out how to make holes inside of the part for the magnets to go into. hopefully this should be a fun easy project to make. again I'm
- always looking for feedback if you have any. also ive been wanting to make something like this for some time. here is what i'm wanting it to look like the red is hidden magnets inside the 3d print the black is the outline.
+ always looking for feedback if you have any. also ive been wanting to make something like this for some time.
 
 
 ![fidget.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--8f4dd85f5df954d1b6ee77b67af1f9f301661aac/fidget.png)  
+
+## 10/19/2025 - figured out how to make a hole inside of a 3d model  
+
+I've found out the best way to make holes inside of symmetrical parts in fusion 360 to do it you have to first start by making half of the part then you use the mirror tool to flip the part that has half of the hole onto itself so it makes one continuous part with the holes sandwiched in-between.
+![Screenshot 2025-10-19 001435.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzI0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--6c154ccab737a9507ccabee51861dfacbef79e87/Screenshot%202025-10-19%20001435.png)
+![Screenshot 2025-10-19 001507.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzI0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--5e7f4e99ad12f5e5de5dbf6bc7ed9154198ceac2/Screenshot%202025-10-19%20001507.png)
+![Screenshot 2025-10-19 001609.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzI0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--075a4090a86de1f2abf65189b66c4ef2d693071f/Screenshot%202025-10-19%20001609.png)
+
+now i need to figure out how to get the holes to be perfectly in the center on each side of the hexagon maybe the pattern tool could help me do that but this is all for now. 
+
+
+
+  
 
