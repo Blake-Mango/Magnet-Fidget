@@ -43,3 +43,8 @@ sorry the images are in reverse order for some reason but it goes bottom to top.
 
   
 
+## 10/19/2025 10 PM - I've started to assemble alot of prototypes to pick the best  
+
+I’ve been assembling a series of prototypes, each with only very slight differences in where the holes are, to fine-tune the overall design/snappiness. The goal is to figure out which small changes actually make a meaningful improvement in performance and fidget ability. Comparing them side by side how fidgety they are is helping me narrow down what works best before committing to a final version.![Screenshot 2025-10-19 222530.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--32c288c67c6ed64692a96db19987fbdf735bf74a/Screenshot%202025-10-19%20222530.png)
+  
+
