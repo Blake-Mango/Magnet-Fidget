@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Magnet Fidgets 3d Printed first project **.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/656).
-
-
 ## 10/17/2025 - starting to design it in fusion  
 
 I'm thinking the best way to design what I'm wanting in fusion 360. also I'm going to need to figure out how to make holes inside of the part for the magnets to go into. hopefully this should be a fun easy project to make. again I'm
@@ -18,7 +14,7 @@ I'm thinking the best way to design what I'm wanting in fusion 360. also I'm goi
 
 ![fidget.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--8f4dd85f5df954d1b6ee77b67af1f9f301661aac/fidget.png)  
 
-## 10/19/2025 12 AM - figured out how to make a hole inside of a 3d model  
+## 10/19/2025 1 AM - figured out how to make a hole inside of a 3d model  
 
 I've found out the best way to make holes inside of symmetrical parts in fusion 360 to do it you have to first start by making half of the part then you use the mirror tool to flip the part that has half of the hole onto itself so it makes one continuous part with the holes sandwiched in-between.
 ![Screenshot 2025-10-19 001435.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzI0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--6c154ccab737a9507ccabee51861dfacbef79e87/Screenshot%202025-10-19%20001435.png)
@@ -31,7 +27,7 @@ now i need to figure out how to get the holes to be perfectly in the center on e
 
   
 
-## 10/19/2025 9 AM - started to make the final design  
+## 10/19/2025 10 AM - started to make the final design  
 
 I was able to figure put that i can make a middle line on the circle to center where the holes for the magnets are going to go. I've also figured out that i can use the pattern tool set on features to make the cut operation go all around the part. next im going to start printing them out and making a ton to give out to my friends and family and anyone who thinks that they are cool.
 ![Screenshot 2025-10-19 095400.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--8b99d8248a6b9f4d20940ad71f13f71322232a21/Screenshot%202025-10-19%20095400.png)
@@ -43,8 +39,13 @@ sorry the images are in reverse order for some reason but it goes bottom to top.
 
   
 
-## 10/19/2025 10 PM - I've started to assemble alot of prototypes to pick the best  
+## 10/19/2025 11 PM - I've started to assemble alot of prototypes to pick the best  
 
 I’ve been assembling a series of prototypes, each with only very slight differences in where the holes are, to fine-tune the overall design/snappiness. The goal is to figure out which small changes actually make a meaningful improvement in performance and fidget ability. Comparing them side by side how fidgety they are is helping me narrow down what works best before committing to a final version.![Screenshot 2025-10-19 222530.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--32c288c67c6ed64692a96db19987fbdf735bf74a/Screenshot%202025-10-19%20222530.png)
+  
+
+## 10/22/2025 - Finalized design and started to make a ton  
+
+I got everything in the GitHub repository the instructions and files to make it. My family thinks that these magnet things are really cool so now I'm going to build a ton of them for my friends and family. ![E55133A5-BBCB-43E9-A2A6-39C2E721E2B1.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDU4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--701a8bb2c2a52dafdb88fcfbbb654ce7367183c2/E55133A5-BBCB-43E9-A2A6-39C2E721E2B1.jpeg)
   
 
