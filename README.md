@@ -6,7 +6,7 @@ Filament to print them
 
 6X 4 by 2 round mangnets
 
-[Magnets](https://www.amazon.com/Magnets-Refrigerator-Neodymium-Whiteboard-Kitchen/dp/B0CCXGG6KX/ref=sr_1_11?crid=LN45PQFB733C&dib=eyJ2IjoiMSJ9.ltchrPjIBplN7_vwjrYPV1sKq9uQfInooyGPbDrn3rDFVGLr36xlf6PKTdpqVr8nOcJrZ8qXR6B-xP4tPSFPp31l9NurPstld22QL8whXjv4LZ5n3B-fZI7U0HmfCB_3obwa4XLYz8SdWghN7sl50Y4NBc4W0_kMN6CMxtwaTgdvcP88kx8HD57ygI7hUKsr3adrUL9vN0c5Jmd5QFyxJf4qHZ6U1wSwFYFFcyhh32EXcwJyNjObDpSK93qlqBZ4qaSAjHwGKwBmM8M7NwQnB2Yc0bjOqP9zw0NPAFCM-fk.fUaM7nShIdMIrujdB9osPIaCdWIex9amwn_oGj4k8BM&dib_tag=se&keywords=4x2%2Bmm%2Bmagnets&qid=1763502030&s=industrial&sprefix=4x2%2Bmm%2Bmagnet%2Cindustrial%2C214&sr=1-11&th=1)
+[Magnets like these](https://www.amazon.com/Magnets-Refrigerator-Neodymium-Whiteboard-Kitchen/dp/B0CCXGG6KX/ref=sr_1_11?crid=LN45PQFB733C&dib=eyJ2IjoiMSJ9.ltchrPjIBplN7_vwjrYPV1sKq9uQfInooyGPbDrn3rDFVGLr36xlf6PKTdpqVr8nOcJrZ8qXR6B-xP4tPSFPp31l9NurPstld22QL8whXjv4LZ5n3B-fZI7U0HmfCB_3obwa4XLYz8SdWghN7sl50Y4NBc4W0_kMN6CMxtwaTgdvcP88kx8HD57ygI7hUKsr3adrUL9vN0c5Jmd5QFyxJf4qHZ6U1wSwFYFFcyhh32EXcwJyNjObDpSK93qlqBZ4qaSAjHwGKwBmM8M7NwQnB2Yc0bjOqP9zw0NPAFCM-fk.fUaM7nShIdMIrujdB9osPIaCdWIex9amwn_oGj4k8BM&dib_tag=se&keywords=4x2%2Bmm%2Bmagnets&qid=1763502030&s=industrial&sprefix=4x2%2Bmm%2Bmagnet%2Cindustrial%2C214&sr=1-11&th=1)
 
 # How to make them
 put how ever many you want onto your print bed in your sclicer. Then put a pause in your sclicer at the very top of the hole inside of the body.<img width="1901" height="1047" alt="Screenshot 2025-10-22 173504" src="https://github.com/user-attachments/assets/aefec282-c3fb-47bc-9917-335d0fe9a246" />
